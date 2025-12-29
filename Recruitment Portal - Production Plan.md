@@ -1923,12 +1923,11 @@ This comprehensive architecture document provides:
 
 
 
-use the logo file available at - /home/ananthakrishnan/Documents/Web Development/ for the portal, and show the admin login page and super login page , and show the default credentails and where the credentials are stored. try to use this colour options which is profession, use based on the professional colour grading - --deep-twilight: #03045eff; --french-blue: #023e8aff; --bright-teal-blue: #0077b6ff; --blue-green: #0096c7ff; --turquoise-surf: #00b4d8ff; --sky-aqua: #48cae4ff; --frosted-blue: #90e0efff; --frosted-blue-2: #ade8f4ff; --light-cyan: #caf0f8ff;
-
-use professional menu navigation with noto sans fonts across portal
-
-registration page and login page not working, forgot password page not working, seperate admin and supervisor login not available
+use the logo file available at - [Branding ](https://drive.google.com/drive/folders/1Yo8BOOPAWyZ2O76QCl_trPVcDh6DXoCS?usp=sharing) for the portal, and show the admin login page and super login page , and show the default credentails and where the credentials are stored. try to use this colour options which is profession, use based on the professional colour grading like blue, professional colouring for portal. Use the background image 
+Use noto sans fonts across portal. Use background for login page located at [Gdrive](https://drive.google.com/drive/folders/1Yo8BOOPAWyZ2O76QCl_trPVcDh6DXoCS?usp=sharing)
+Use login page with background with gradient effects like professional 
+Have seperate page for login, registration and password reset, use password reset and send new user password through email by smtp, 
 
 use smtp setting as - ictserc@gmail.com & app password - yyhoakynckydyybm
 
-make it aadhaar and mobile only login as a username option and user set password during registration
+make it aadhaar and mobile number as primary for login and registration, login through mobile number or 12 aadhaar number 
